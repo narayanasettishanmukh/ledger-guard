@@ -1,1 +1,1 @@
-LedgerGuard project - Devolpment Progress
+LedgerGuard project develpoment is in progess
