@@ -1,1 +1,2 @@
-LedgerGuard project develpoment is in progess
+# LeadgerGuard
+Dynamic Multi-Tenant Zero-Knowledge Billing Engine
