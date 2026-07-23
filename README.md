@@ -1,1 +1,1 @@
-LedgerGuard Project
+LedgerGuard project - Devolpment Progress
